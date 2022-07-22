@@ -14,7 +14,7 @@ Based to the totals summary given above, urban areas see the most activits and p
 
 
 ### Total Fare by City Weekly
-![total_fare_by_city_type](Resources/total_fare_by_city_type.png)
+![pivot_resample](Resources/pivot_resample.png)
 
 The weekly summary dataframe and Total fare graph back up the findings shown in the totals summary. 
 
