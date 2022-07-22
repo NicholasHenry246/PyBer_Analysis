@@ -16,10 +16,9 @@ Based to the totals summary given above, urban areas see the most activits and p
 ### Total Fare by City Weekly
 ![pivot_resample](Resources/pivot_resample.png)
 
-The weekly summary dataframe and Total fare graph back up the findings shown in the totals summary. 
-
-## Summary
+## Summary Recommendations
 To gain more riders and revenue in the rural areas, ride sharing must become more attractive to potential customers. This may be done by:
   * Reducing fares in rural areas
   * Marketing the benefits of ride sharing in rural areas. 
-  * Providing new services for rural areas
+  * Improving current services or providing new services to rural areas. 
+The average fare per ride and per driver may be longer in rural and suburban areas due to longer distances being traveled and lack of other transportation options. Urban/City trips are usually shorter in length and more frequent and there is no shortage of drivers.Therefore, creating a services that takes more people for each long trip may be an option. 
