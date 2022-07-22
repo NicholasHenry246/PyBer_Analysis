@@ -7,7 +7,7 @@ The goal of this analysis was to analyse and visualize ride-sharing data between
 ### Totals Summary
 ![pyber_total_summary_df](Resources/pyber_total_summary_df.png)
 
-Based to the totals summary given above, urban areas see the most activits and produce the most revenue. This is expected since densely populated areas with large amounts of economic require the most transportation. Many people opt to avoid doing their own driving to avoid the frustrations of traffic and possible damage to their vehicles. However, the total fares per city type seem to have an inverse relationship with the average fares per ride and per driver. Average fares are higher in rural areas. Possibly because of the limited amount of drivers and passengers needing rides.
+Based to the totals summary given above, urban areas see the most activits and produce the most revenue. This is expected since densely populated areas with large amounts of economic require the most transportation. Many people opt to avoid doing their own driving to avoid the frustrations of traffic and possible damage to their vehicles. However, the total fares per city type seem to have an inverse relationship with the average fares per ride and per driver. Average fares are higher in rural areas. Possibly because of the limited amount of drivers and passengers needing rides. Below are the weekly summary and weekly fare graph to further depict this.
 
 ### Weekly Summary
 ![pyber_summary_weekly](Resources/pyber_summary_weekly.png)
@@ -19,4 +19,7 @@ Based to the totals summary given above, urban areas see the most activits and p
 The weekly summary dataframe and Total fare graph back up the findings shown in the totals summary. 
 
 ## Summary
-To gain more riders and revenue in the rural areas, ride sharing must become more attractive to potential customers. This may be done by reducing fares in rural areas
+To gain more riders and revenue in the rural areas, ride sharing must become more attractive to potential customers. This may be done by:
+  * Reducing fares in rural areas
+  * Marketing the benefits of ride sharing in rural areas. 
+  * Providing new services for rural areas
